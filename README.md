@@ -1,1 +1,11 @@
 # Hirst_painting
+- The Hirst painting project is painting of Damien Hirst random color dot as a part of learning project.
+- First we import the image of the random color using colorgram module.
+- By using the colorgram module we can import the colors in terms of RGB as inform of tuple of each colors.
+- By using colormode to set the range of colors from the values from 0 to 255.
+- And to set the direction of the turtle to start from the bottom using setheading() method.
+- And using penup() method to disable the line of movement left by the turtle.
+- And using hideturtle() method to not show the turtle.
+- And setting the direction of the turtle movement by using setheading() method to some angle.
+- And using dot () method to print the dot movement of the turtle.
+- And to set the movement speed of the turtle by speed() method.
